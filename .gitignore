@@ -13,3 +13,5 @@ build/
 tests_output
 
 .idea
+vendor/
+cmd/kourier/kourier
